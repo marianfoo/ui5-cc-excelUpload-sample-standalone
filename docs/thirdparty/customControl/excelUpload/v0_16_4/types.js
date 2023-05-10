@@ -1,0 +1,2 @@
+"use strict";sap.ui.define([],function(){var r=function(r){r[r["MandatoryFieldNotFilled"]={title:"MandatoryFieldNotFilled",group:true}]="MandatoryFieldNotFilled";r[r["ColumnNotFound"]={title:"ColumnNotFound",group:false}]="ColumnNotFound";r[r["ParsingError"]={title:"ParsingError",group:true}]="ParsingError";r[r["CustomErrorGroup"]={title:"CustomErrorGroup",group:true}]="CustomErrorGroup";r[r["CustomError"]={title:"CustomError",group:false}]="CustomError";return r}(r||{});var o={__esModule:true};o.ErrorTypes=r;return o});
+//# sourceMappingURL=types.js.map
